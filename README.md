@@ -18,12 +18,16 @@ Uma ferramenta simples para calcular o valor de resistores com base nas bandas d
 
 **Como Utilizar:**
 ```bash
-./calculadora_resistor
+./calc_resistor
 ```
 
 #### 2. Calculadora de IMC 📏
 Uma calculadora de Índice de Massa Corporal (IMC) para avaliar a condição física com base no peso e altura.
 
+**Como Utilizar:**
+```bash
+./IMC
+```
 
 ## Como Contribuir 🤝
 
